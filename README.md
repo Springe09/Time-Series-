@@ -7,6 +7,8 @@ The financial departments of large companies often deal with foreign currency tr
    Forecasting Returns using an ARMA Model
    
    [Arma](ARMA_MODEL.png)
+      
+   [Arima](png/ARIMA_MODEL.jpg)
 
 
 
