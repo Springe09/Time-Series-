@@ -13,11 +13,11 @@ Test the many time-series tools in order to predict future movements in the valu
    
     Forecasting Returns using an ARIMA Model
       
-   ![Arima](https://raw.githubusercontent.com/Springe09/Time-Series-/main/ARIMA_MODEL.PNG)
+   ![Arima](https://raw.githubusercontent.com/Springe09/Time-Series-/main/ARIMA_MODEL.jpg)
    
     Forecasting Returns using an GARCHModel
     
-   ![GARCH](https://raw.githubusercontent.com/Springe09/Time-Series-/main/GARCH_MODEL.PNG)
+   ![GARCH](https://raw.githubusercontent.com/Springe09/Time-Series-/main/GARCH_MODEL.jpg)
 
 
 
