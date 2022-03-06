@@ -38,6 +38,8 @@ Test the many time-series tools in order to predict future movements in the valu
 
 
    -Out-of-Sample Root Mean Squared Error (RMSE): 0.41547588962821286
+   
    -In-sample Root Mean Squared Error (RMSE): 0.5972597350419817
+   
    -The RMSE is a measure of model accuracy. The higher the RMSE, the lower the accuracy (since a higher RMSE means higher prediction error).
    The in-sample (training sample) RMSE, at .60, is higher than the out-of-sample (testing sample) at 0.42. Typically, out-of-sample errors are higher than in-sample errors.
