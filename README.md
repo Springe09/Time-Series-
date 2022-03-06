@@ -6,7 +6,7 @@ The financial departments of large companies often deal with foreign currency tr
 1. Time Series Forecasting
    Forecasting Returns using an ARMA Model
    
-   [Arma](ARMA_MODEL.png)
+   ![Arma](https://github.com/Springe09/Time-Series-/ARMA_MODEL.jpg)
       
    [Arima](png/ARIMA_MODEL.jpg)
 
